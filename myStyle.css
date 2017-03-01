@@ -1,0 +1,26 @@
+p {
+	background-color: #9c9f84;
+}
+
+input {
+	display: block;
+}
+
+.prueba {
+	color: red;
+}
+
+.divisorin {
+	background-color: #aaa;
+	font-size: 150%;
+	border : solid;
+	padding: 25px;
+}
+
+.divisorin h2 {
+	color: #A34;
+}
+
+.divisorin div {
+	color: #D73;
+}
